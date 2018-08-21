@@ -1,2 +1,2 @@
-# androidRecyclerView
-All about Android RecyclerView
+# AndroidRecyclerView
+All about Android RecyclerView by CodingInFlow youtube
